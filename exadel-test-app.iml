@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="Flex" version="4">
+  <component name="FlexBuildConfigurationManager" active="exadel-test-app">
+    <configurations>
+      <configuration name="exadel-test-app" pure-as="true" main-class="com.exadel.test.Root" output-file="exadel-test-app.swf" output-folder="$MODULE_DIR$/bin">
+        <dependencies target-player="18.0">
+          <entries>
+            <entry library-id="f32b0be8-802f-43dd-9ce2-fd1eb0236476">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="901ca578-b19e-4d76-af4d-580e1ded4f0c">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="64fb776e-9cf0-4acc-98dd-32a598c8a571">
+              <dependency linkage="Test" />
+            </entry>
+            <entry library-id="7a6301d5-b710-41b5-bfba-be7ad26ee78e">
+              <dependency linkage="Test" />
+            </entry>
+            <entry library-id="216bd0e2-71bc-4f32-8cb8-5acd42f9c22a">
+              <dependency linkage="Test" />
+            </entry>
+          </entries>
+          <sdk name="AIRSDK_Compiler_18" />
+        </dependencies>
+        <compiler-options>
+          <option name="resourceFilesMode" value="None" />
+          <option name="additionalOptions" value="-keep-as3-metadata+=Inject -keep-as3-metadata+=PostConstruct -keep-as3-metadata+=PreDestroy" />
+        </compiler-options>
+        <packaging-air-desktop />
+        <packaging-android />
+        <packaging-ios />
+      </configuration>
+    </configurations>
+    <compiler-options />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/libs/swiftsuspenders-2.0.0/test" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/libs/swiftsuspenders-2.0.0/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/libs/robotlegs-extensions/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/libs/bulk-loader/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/libs/robotlegs-framework-v2.2.0/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/bin" />
+    </content>
+    <orderEntry type="jdk" jdkName="AIRSDK_Compiler_18" jdkType="Flex SDK Type (new)" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="f32b0be8-802f-43dd-9ce2-fd1eb0236476" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/tweenlite.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="901ca578-b19e-4d76-af4d-580e1ded4f0c" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/view.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="64fb776e-9cf0-4acc-98dd-32a598c8a571" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/flexunit-4.2.0-20140410-as3_4.12.0.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="7a6301d5-b710-41b5-bfba-be7ad26ee78e" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/flexunitextended.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="216bd0e2-71bc-4f32-8cb8-5acd42f9c22a" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/hamcrest-as3-flex-1.1.3.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

@@ -1,0 +1,35 @@
+<project name="Gallery" basedir="./..">
+	<property name="dir.assets" value="${basedir}/assets"/>
+	<property name="dir.output" value="${basedir}/bin"/>
+
+	<target name="deploy">
+		<sequential>
+			<!--<assets.reset/>-->
+			<!--<assets.deploy/>-->
+			<!--<assets.postprocess/>-->
+		</sequential>
+	</target>
+
+	<macrodef name="assets.reset">
+		<sequential>
+			<mkdir dir="${dir.output}"/>
+			<delete dir="${dir.output}" includes="**/*"/>
+		</sequential>
+	</macrodef>
+
+	<macrodef name="assets.deploy">
+		<sequential>
+			<copy todir="${dir.output}" failonerror="false">
+				<fileset dir="${dir.assets}"/>
+			</copy>
+		</sequential>
+
+	</macrodef>
+
+	<macrodef name="assets.postprocess">
+		<sequential>
+
+		</sequential>
+	</macrodef>
+
+</project>
