@@ -1,0 +1,1107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ec063b7-34f1-451c-b1fa-7eff686420ef" name="Default" comment="Initial commit.">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/ArraysTest.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/configs/assets-list.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/exadel-test-app.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/photos/01545_thefarmhouse_1920x1200.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/photos/01665_streamssun_2560x1600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/photos/01669_highalpinelandscape_2560x1600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/photos/01675_tomahawkscabin_2560x1600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/photos/01678_walenstadtberg_1920x1200.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/photos/01682_fallingstar_1920x1200.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/photos/01686_afternoonshadows_2560x1600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/photos/1207930047_vector_150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/photos/1207930047_vector_151.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/photos/1207930047_vector_156.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/photos/1207930392_vector_158.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/photos/1207930392_vector_172.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/photos/1207930392_vector_173.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/photos/1207931268_vector_196.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/photos/1207931268_vector_202.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/photos/1207931268_vector_208.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/photos/1207931268_vector_210.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/photos/1920x1200-(1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/photos/1920x1200-(11).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/photos/1920x1200-(13).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/photos/1920x1200-(16).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/photos/1920x1200-(17).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/photos/1920x1200-(24).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/photos/1920x1200-(8).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/photos/659535033.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/photos/672039.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/previews/01545_thefarmhouse_1920x1200.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/previews/01665_streamssun_2560x1600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/previews/01669_highalpinelandscape_2560x1600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/previews/01675_tomahawkscabin_2560x1600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/previews/01678_walenstadtberg_1920x1200.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/previews/01682_fallingstar_1920x1200.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/previews/01686_afternoonshadows_2560x1600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/previews/1207930047_vector_150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/previews/1207930047_vector_151.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/previews/1207930047_vector_156.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/previews/1207930392_vector_158.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/previews/1207930392_vector_172.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/previews/1207930392_vector_173.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/previews/1207931268_vector_196.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/previews/1207931268_vector_197.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/previews/1207931268_vector_202.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/previews/1207931268_vector_208.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/previews/1207931268_vector_210.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/previews/1920x1200-(1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/previews/1920x1200-(11).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/previews/1920x1200-(13).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/previews/1920x1200-(16).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/previews/1920x1200-(17).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/previews/1920x1200-(24).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/previews/1920x1200-(8).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/previews/659535033.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/previews/672039.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/view.fla" afterPath="" />
+    </list>
+    <ignored path="exadel-test-app.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="exadel-test-app" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="GalleryConfig.as" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/exadel/test/GalleryConfig.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="59" column="45" selection-start-line="59" selection-start-column="45" selection-end-line="59" selection-end-column="45" />
+              <folding>
+                <element signature="e#27#68#0" expanded="true" />
+                <element signature="n#!!block;n#configure#0;n#GalleryConfig#0;n#test#0" expanded="true" />
+                <element signature="n#!!block;n#mapInjections#0;n#GalleryConfig#0;n#test#0" expanded="true" />
+                <element signature="n#!!block;n#mapMediators#0;n#GalleryConfig#0;n#test#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppModelTest.as" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/com/exadel/test/AppModelTest.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
+              <folding>
+                <element signature="e#27#66#0" expanded="true" />
+                <element signature="n#!!block;n#before#0;n#AppModelTest#0;n#test#0" expanded="true" />
+                <element signature="n#!!block;n#defaultStateClean#0;n#AppModelTest#0;n#test#0" expanded="true" />
+                <element signature="n#!!block;n#assetsAddsCorrectly#0;n#AppModelTest#0;n#test#0" expanded="true" />
+                <element signature="n#!!block;n#assetsRemovedCorrectly#0;n#AppModelTest#0;n#test#0" expanded="true" />
+                <element signature="n#!!block;n#modelFiltersDuplicates#0;n#AppModelTest#0;n#test#0" expanded="true" />
+                <element signature="n#!!block;n#modelNotifiesThatElementAdded#0;n#AppModelTest#0;n#test#0" expanded="true" />
+                <element signature="n#!!block;n#modelNotifiesThatElementRemoved#0;n#AppModelTest#0;n#test#0" expanded="true" />
+                <element signature="n#!!block;n#MockAssetVO#0;n#MockAssetVO#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArraysTest.as" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/exadel/test/ArraysTest.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+              <folding>
+                <element signature="n#!!block;n#generateData#0;n#ArraysTest#0;n#test#0" expanded="true" />
+                <element signature="n#!!block;n#sortArray#0;n#ArraysTest#0;n#test#0" expanded="true" />
+                <element signature="n#!!block;n#testSort#0;n#ArraysTest#0;n#test#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.ant" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build/build.ant">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.30088496">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GalleryTestSuite.as" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/GalleryTestSuite.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GalleryView.as" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/exadel/test/views/GalleryView.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding>
+                <element signature="e#33#71#0" expanded="true" />
+                <element signature="n#!!block;n#GalleryView#0;n#GalleryView#0;n#views#0" expanded="true" />
+                <element signature="n#!!block;n#onPreviewOver#0;n#GalleryView#0;n#views#0" expanded="true" />
+                <element signature="n#!!block;n#onPreviewOut#0;n#GalleryView#0;n#views#0" expanded="true" />
+                <element signature="n#!!block;n#showPreloader#0;n#GalleryView#0;n#views#0" expanded="true" />
+                <element signature="n#!!block;n#hidePreloader#0;n#GalleryView#0;n#views#0" expanded="true" />
+                <element signature="n#!!block;n#showPhoto#0;n#GalleryView#0;n#views#0" expanded="true" />
+                <element signature="n#!!block;n#onPreviewClear#0;n#GalleryView#0;n#views#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImageViewerView.as" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/exadel/test/views/ImageViewerView.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="76" column="28" selection-start-line="76" selection-start-column="28" selection-end-line="76" selection-end-column="28" />
+              <folding>
+                <element signature="e#33#74#0" expanded="true" />
+                <element signature="n#!!block;n#ImageViewerView#0;n#ImageViewerView#0;n#views#0" expanded="true" />
+                <element signature="n#!!block;n#vo#0;n#ImageViewerView#0;n#views#0" expanded="true" />
+                <element signature="n#!!block;n#show#0;n#ImageViewerView#0;n#views#0" expanded="true" />
+                <element signature="n#!!block;n#hide#0;n#ImageViewerView#0;n#views#0" expanded="true" />
+                <element signature="n#!!block;n#onCloseButtonClick#0;n#ImageViewerView#0;n#views#0" expanded="true" />
+                <element signature="n#!!block;n#onOverlayChange#0;n#ImageViewerView#0;n#views#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GalleryMediator.as" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/exadel/test/views/GalleryMediator.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+              <folding>
+                <element signature="e#33#78#0" expanded="true" />
+                <element signature="n#!!block;n#onShowPhoto#0;n#GalleryMediator#0;n#views#0" expanded="true" />
+                <element signature="n#!!block;n#onAssetsLoaded#0;n#GalleryMediator#0;n#views#0" expanded="true" />
+                <element signature="n#!!block;n#onShowPreloader#0;n#GalleryMediator#0;n#views#0" expanded="true" />
+                <element signature="n#!!block;n#onHidePreloader#0;n#GalleryMediator#0;n#views#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="ActionScript Interface" />
+        <option value="ActionScript Class with Supers" />
+        <option value="ActionScript Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/by/lord_xaoca/testGame/Main.as" />
+        <option value="$PROJECT_DIR$/assets/assets-list.xml" />
+        <option value="$PROJECT_DIR$/assets/configs/assets-list.xml" />
+        <option value="$PROJECT_DIR$/src/com/exadel/test/AppModel.as" />
+        <option value="$PROJECT_DIR$/src/com/exadel/test/models/AssetVO.as" />
+        <option value="$PROJECT_DIR$/libs/robotlegs-framework-v2.1.0/src/robotlegs/bender/bundles/mvcs/MVCSBundle.as" />
+        <option value="$PROJECT_DIR$/libs/robotlegs-framework-v2.1.0/src/robotlegs/bender/extensions/contextView/ContextViewListenerConfig.as" />
+        <option value="$PROJECT_DIR$/src/com/exadel/test/commands/DispatchEventCommand.as" />
+        <option value="$PROJECT_DIR$/libs/bulk-loader/src/br/com/stimuli/loading/IAssetsLoader.as" />
+        <option value="$PROJECT_DIR$/libs/bulk-loader/src/br/com/stimuli/loading/BulkLoader.as" />
+        <option value="$PROJECT_DIR$/src/com/exadel/test/commands/LoadAssetsListCommand.as" />
+        <option value="$PROJECT_DIR$/src/com/exadel/test/Root.as" />
+        <option value="$PROJECT_DIR$/src/com/exadel/test/commands/LoadPhotoCommand.as" />
+        <option value="$PROJECT_DIR$/src/com/exadel/test/views/PreloaderView.as" />
+        <option value="$PROJECT_DIR$/src/com/exadel/test/views/Overlay.as" />
+        <option value="$PROJECT_DIR$/src/com/exadel/test/GalleryConfig.as" />
+        <option value="$PROJECT_DIR$/src/com/exadel/test/views/ImageViewerMediator.as" />
+        <option value="$PROJECT_DIR$/src/com/exadel/test/commands/InitializeAppCommand.as" />
+        <option value="$PROJECT_DIR$/src/com/exadel/test/views/GalleryMediator.as" />
+        <option value="$PROJECT_DIR$/src/com/exadel/test/GalleryEvent.as" />
+        <option value="$PROJECT_DIR$/src/com/exadel/test/views/ImageViewerView.as" />
+        <option value="$PROJECT_DIR$/src/com/exadel/test/views/GalleryView.as" />
+        <option value="$PROJECT_DIR$/src/com/exadel/test/views/ImagePreviewMediator.as" />
+        <option value="$PROJECT_DIR$/src/com/exadel/test/views/ImagePreviewView.as" />
+        <option value="$PROJECT_DIR$/src/com/exadel/test/commands/ShowPhotoCommand.as" />
+        <option value="$PROJECT_DIR$/src/com/exadel/test/commands/LoadAssetsCommand.as" />
+        <option value="$PROJECT_DIR$/src/com/exadel/test/GalleryModelTest.as" />
+        <option value="$PROJECT_DIR$/src/com/exadel/test/models/AppModel.as" />
+        <option value="$PROJECT_DIR$/test/com/exadel/test/AppModelTest.as" />
+        <option value="$PROJECT_DIR$/test/com/exadel/test/ArraySortTest.as" />
+        <option value="$PROJECT_DIR$/test/GalleryTestSuite.as" />
+        <option value="$PROJECT_DIR$/src/com/exadel/test/ArraysTest.as" />
+        <option value="$PROJECT_DIR$/README.txt" />
+        <option value="$PROJECT_DIR$/build/build.ant" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1176" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exadel-test-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exadel-test-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exadel-test-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exadel-test-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exadel-test-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exadel-test-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exadel-test-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exadel-test-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exadel-test-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exadel-test-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exadel-test-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Viaden/wsc-sfxml/src/test" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15429688" />
+    <property name="project.structure.side.proportion" value="0.2411953" />
+    <property name="FullScreen" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/test/com/exadel/test" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Work\Pet\exadel-test-app\test" />
+      <recent name="C:\Work\Pet\exadel-test-app\libs" />
+      <recent name="C:\Work\Pet\exadel-test-app\libs\bulk-loader\src" />
+      <recent name="C:\Work\Pet\exadel-test-app\src\com\exadel\test\commands" />
+      <recent name="C:\Work\Pet\exadel-test-app\src" />
+    </key>
+    <key name="JSExtractSuperBase.RECENT_KEYS">
+      <recent name="br.com.stimuli.loading" />
+    </key>
+    <key name="JSMoveMembersDialog.RECENTS_KEY">
+      <recent name="com.exadel.test.AppData" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Work\Pet\exadel-test-app\assets\configs" />
+      <recent name="C:\Work\Pet\exadel-test-app\assets\images" />
+      <recent name="C:\Work\Pet\exadel-test-app\libs" />
+      <recent name="C:\Work\Pet\exadel-test-app" />
+    </key>
+    <key name="CreateActionScriptClassDialog.DESTINATION_PACKAGE_RECENT_KEY">
+      <recent name="com.exadel.test" />
+      <recent name="com.exadel.test.views" />
+      <recent name="com.exadel.test.commands" />
+      <recent name="com.exadel.test.models" />
+    </key>
+    <key name="com.intellij.javascript.flex.refactoring.moveClass.FlexMoveClassDialog.target_package">
+      <recent name="com.exadel.test" />
+      <recent name="com.exadel.test.models" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flash App.exadel-test-app">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="exadel-test-app" type="FlashRunConfigurationType" factoryName="Flash App" singleton="true">
+      <option name="BCName" value="exadel-test-app" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="Player" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="C:/Soft/Adobe/fps/flashplayer_17_sa_debug.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="exadel-test-app" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method>
+        <option name="AntTarget" enabled="true" antfile="file://$PROJECT_DIR$/build/build.ant" target="deploy" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="false" name="tests" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" singleton="true" appDescriptorForEmulator="Android" class_name="GalleryTestSuite" emulatorAdlOptions="" method_name="" output_log_level="All" package_name="" scope="Class">
+      <option name="BCName" value="exadel-test-app" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="exadel-test-app" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Flash App.exadel-test-app" />
+      <item index="1" class="java.lang.String" itemvalue="FlexUnit.tests" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32535884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39243242" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291866" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15405117" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12846482" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.8258373" sideWeight="0.4978678" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33513513" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="false" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Initial commit." />
+    <MESSAGE value="Update build script." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update build script." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="17" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+    <buildFile url="file://$PROJECT_DIR$/build/build.ant">
+      <targetFilters>
+        <filter targetName="deploy" isVisible="false" />
+      </targetFilters>
+      <expanded value="true" />
+    </buildFile>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/exadel/test/ArraysTest.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#generateData#0;n#ArraysTest#0;n#test#0" expanded="true" />
+            <element signature="n#!!block;n#sortArray#0;n#ArraysTest#0;n#test#0" expanded="true" />
+            <element signature="n#!!block;n#testSort#0;n#ArraysTest#0;n#test#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/GalleryTestSuite.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exadel/test/views/GalleryView.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="e#33#71#0" expanded="true" />
+            <element signature="n#!!block;n#GalleryView#0;n#GalleryView#0;n#views#0" expanded="true" />
+            <element signature="n#!!block;n#onPreviewOver#0;n#GalleryView#0;n#views#0" expanded="true" />
+            <element signature="n#!!block;n#onPreviewOut#0;n#GalleryView#0;n#views#0" expanded="true" />
+            <element signature="n#!!block;n#showPreloader#0;n#GalleryView#0;n#views#0" expanded="true" />
+            <element signature="n#!!block;n#hidePreloader#0;n#GalleryView#0;n#views#0" expanded="true" />
+            <element signature="n#!!block;n#showPhoto#0;n#GalleryView#0;n#views#0" expanded="true" />
+            <element signature="n#!!block;n#onPreviewClear#0;n#GalleryView#0;n#views#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exadel/test/views/ImageViewerView.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="76" column="28" selection-start-line="76" selection-start-column="28" selection-end-line="76" selection-end-column="28" />
+          <folding>
+            <element signature="e#33#74#0" expanded="true" />
+            <element signature="n#!!block;n#ImageViewerView#0;n#ImageViewerView#0;n#views#0" expanded="true" />
+            <element signature="n#!!block;n#vo#0;n#ImageViewerView#0;n#views#0" expanded="true" />
+            <element signature="n#!!block;n#show#0;n#ImageViewerView#0;n#views#0" expanded="true" />
+            <element signature="n#!!block;n#hide#0;n#ImageViewerView#0;n#views#0" expanded="true" />
+            <element signature="n#!!block;n#onCloseButtonClick#0;n#ImageViewerView#0;n#views#0" expanded="true" />
+            <element signature="n#!!block;n#onOverlayChange#0;n#ImageViewerView#0;n#views#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exadel/test/views/GalleryMediator.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+          <folding>
+            <element signature="e#33#78#0" expanded="true" />
+            <element signature="n#!!block;n#onShowPhoto#0;n#GalleryMediator#0;n#views#0" expanded="true" />
+            <element signature="n#!!block;n#onAssetsLoaded#0;n#GalleryMediator#0;n#views#0" expanded="true" />
+            <element signature="n#!!block;n#onShowPreloader#0;n#GalleryMediator#0;n#views#0" expanded="true" />
+            <element signature="n#!!block;n#onHidePreloader#0;n#GalleryMediator#0;n#views#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlashProjects/Custome/gallery/FlowGallery/src/by/lord_xaoca/net/SequentialPicsLoader.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlashProjects/Custome/gallery/FlowGallery/src/by/lord_xaoca/net/XMLLoader.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4503902">
+          <caret line="30" column="68" selection-start-line="30" selection-start-column="68" selection-end-line="30" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlashProjects/Custome/gallery/FlowGallery/src/by/lord_xaoca/components/Main2.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="56" selection-start-line="0" selection-start-column="56" selection-end-line="0" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/robotlegs-extensions/src/eu/alebianco/robotlegs/utils/impl/AsyncCommand.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/previews/01545_thefarmhouse_1920x1200.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FlashProjects/Custome/gallery/FlowGallery/src/by/lord_xaoca/components/NewMain.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/configs/assets-list.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16129032">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/robotlegs-framework-v2.2.0/src/robotlegs/bender/bundles/mvcs/MVCSBundle.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="59" column="37" selection-start-line="59" selection-start-column="37" selection-end-line="59" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/robotlegs-framework-v2.2.0/src/robotlegs/bender/extensions/contextView/ContextViewListenerConfig.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.1820041">
+          <caret line="15" column="48" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exadel/test/commands/DispatchEventCommand.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40823328">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/bulk-loader/src/br/com/stimuli/loading/IAssetsLoader.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.25083613">
+          <caret line="5" column="59" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/robotlegs-framework-v2.2.0/src/robotlegs/bender/framework/api/IContext.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.74693424">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/robotlegs-framework-v2.2.0/src/robotlegs/bender/framework/impl/Context.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41694537">
+          <caret line="35" column="66" selection-start-line="35" selection-start-column="66" selection-end-line="35" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/robotlegs-framework-v2.2.0/src/robotlegs/bender/framework/impl/Lifecycle.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.68164796">
+          <caret line="420" column="0" selection-start-line="420" selection-start-column="0" selection-end-line="420" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exadel/test/Root.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="50" column="14" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/swiftsuspenders-2.0.0/src/org/swiftsuspenders/typedescriptions/PropertyInjectionPoint.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exadel/test/views/ImageViewerMediator.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15917604">
+          <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Soft/Adobe/sdks/AIRSDK_Compiler_18/frameworks/libs/player/18.0/playerglobal.swc!/library.swf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3321976">
+          <caret line="1891" column="50" selection-start-line="1891" selection-start-column="45" selection-end-line="1891" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exadel/test/commands/InitializeAppCommand.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4456929">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exadel/test/GalleryEvent.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19101124">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exadel/test/views/PreloaderView.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.57921636">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/bulk-loader/src/br/com/stimuli/loading/BulkLoader.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="1371" column="24" selection-start-line="1371" selection-start-column="24" selection-end-line="1371" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exadel/test/views/GalleryView.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="e#33#71#0" expanded="true" />
+            <element signature="n#!!block;n#GalleryView#0;n#GalleryView#0;n#views#0" expanded="true" />
+            <element signature="n#!!block;n#onPreviewOver#0;n#GalleryView#0;n#views#0" expanded="true" />
+            <element signature="n#!!block;n#onPreviewOut#0;n#GalleryView#0;n#views#0" expanded="true" />
+            <element signature="n#!!block;n#showPreloader#0;n#GalleryView#0;n#views#0" expanded="true" />
+            <element signature="n#!!block;n#hidePreloader#0;n#GalleryView#0;n#views#0" expanded="true" />
+            <element signature="n#!!block;n#showPhoto#0;n#GalleryView#0;n#views#0" expanded="true" />
+            <element signature="n#!!block;n#onPreviewClear#0;n#GalleryView#0;n#views#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exadel/test/commands/LoadPhotoCommand.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.05685619">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exadel/test/views/ImagePreviewView.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4770017">
+          <caret line="63" column="54" selection-start-line="63" selection-start-column="54" selection-end-line="63" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exadel/test/views/ImagePreviewMediator.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40545145">
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exadel/test/commands/LoadAssetsListCommand.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4923339">
+          <caret line="29" column="57" selection-start-line="29" selection-start-column="57" selection-end-line="29" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exadel/test/commands/ShowPhotoCommand.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exadel/test/commands/LoadAssetsCommand.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.303233">
+          <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exadel/test/views/Overlay.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7346711">
+          <caret line="52" column="62" selection-start-line="52" selection-start-column="62" selection-end-line="52" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exadel/test/views/ImageViewerView.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="76" column="28" selection-start-line="76" selection-start-column="28" selection-end-line="76" selection-end-column="28" />
+          <folding>
+            <element signature="e#33#74#0" expanded="true" />
+            <element signature="n#!!block;n#ImageViewerView#0;n#ImageViewerView#0;n#views#0" expanded="true" />
+            <element signature="n#!!block;n#vo#0;n#ImageViewerView#0;n#views#0" expanded="true" />
+            <element signature="n#!!block;n#show#0;n#ImageViewerView#0;n#views#0" expanded="true" />
+            <element signature="n#!!block;n#hide#0;n#ImageViewerView#0;n#views#0" expanded="true" />
+            <element signature="n#!!block;n#onCloseButtonClick#0;n#ImageViewerView#0;n#views#0" expanded="true" />
+            <element signature="n#!!block;n#onOverlayChange#0;n#ImageViewerView#0;n#views#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exadel/test/views/GalleryMediator.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+          <folding>
+            <element signature="e#33#78#0" expanded="true" />
+            <element signature="n#!!block;n#onShowPhoto#0;n#GalleryMediator#0;n#views#0" expanded="true" />
+            <element signature="n#!!block;n#onAssetsLoaded#0;n#GalleryMediator#0;n#views#0" expanded="true" />
+            <element signature="n#!!block;n#onShowPreloader#0;n#GalleryMediator#0;n#views#0" expanded="true" />
+            <element signature="n#!!block;n#onHidePreloader#0;n#GalleryMediator#0;n#views#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exadel/test/GalleryConfig.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="59" column="45" selection-start-line="59" selection-start-column="45" selection-end-line="59" selection-end-column="45" />
+          <folding>
+            <element signature="e#27#68#0" expanded="true" />
+            <element signature="n#!!block;n#configure#0;n#GalleryConfig#0;n#test#0" expanded="true" />
+            <element signature="n#!!block;n#mapInjections#0;n#GalleryConfig#0;n#test#0" expanded="true" />
+            <element signature="n#!!block;n#mapMediators#0;n#GalleryConfig#0;n#test#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exadel/test/models/AssetVO.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11371238">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Viaden/wsc-sfxml/src/test/actionscript/com/viaden/sfxml/StarlingTestCase.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4548495">
+          <caret line="46" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exadel/test/models/AppModel.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41694537">
+          <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/exadel/test/AppModelTest.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
+          <folding>
+            <element signature="e#27#66#0" expanded="true" />
+            <element signature="n#!!block;n#before#0;n#AppModelTest#0;n#test#0" expanded="true" />
+            <element signature="n#!!block;n#defaultStateClean#0;n#AppModelTest#0;n#test#0" expanded="true" />
+            <element signature="n#!!block;n#assetsAddsCorrectly#0;n#AppModelTest#0;n#test#0" expanded="true" />
+            <element signature="n#!!block;n#assetsRemovedCorrectly#0;n#AppModelTest#0;n#test#0" expanded="true" />
+            <element signature="n#!!block;n#modelFiltersDuplicates#0;n#AppModelTest#0;n#test#0" expanded="true" />
+            <element signature="n#!!block;n#modelNotifiesThatElementAdded#0;n#AppModelTest#0;n#test#0" expanded="true" />
+            <element signature="n#!!block;n#modelNotifiesThatElementRemoved#0;n#AppModelTest#0;n#test#0" expanded="true" />
+            <element signature="n#!!block;n#MockAssetVO#0;n#MockAssetVO#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/GalleryTestSuite.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20058997">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exadel/test/ArraysTest.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+          <folding>
+            <element signature="n#!!block;n#generateData#0;n#ArraysTest#0;n#test#0" expanded="true" />
+            <element signature="n#!!block;n#sortArray#0;n#ArraysTest#0;n#test#0" expanded="true" />
+            <element signature="n#!!block;n#testSort#0;n#ArraysTest#0;n#test#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/build.ant">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30088496">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>exadel-test-app</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2411953" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
