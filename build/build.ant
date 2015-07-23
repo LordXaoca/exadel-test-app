@@ -2,12 +2,12 @@
 	<property name="dir.assets" value="${basedir}/assets"/>
 	<property name="dir.output" value="${basedir}/bin"/>
 
+	<!--there is possible to use targets as dependencies, but list of macrodef more handful for management, imho-->
+	<!--<target depends="assets.reset, assets.deploy, assets.postprocess"-->
 	<target name="deploy">
-		<sequential>
-			<!--<assets.reset/>-->
-			<!--<assets.deploy/>-->
-			<!--<assets.postprocess/>-->
-		</sequential>
+		<assets.reset/>
+		<assets.deploy/>
+		<assets.postprocess/>
 	</target>
 
 	<macrodef name="assets.reset">
@@ -20,7 +20,7 @@
 	<macrodef name="assets.deploy">
 		<sequential>
 			<copy todir="${dir.output}" failonerror="false">
-				<fileset dir="${dir.assets}"/>
+				<fileset dir="${dir.assets}" excludes="*.fla"/>
 			</copy>
 		</sequential>
 
